@@ -3,5 +3,6 @@
 #include <stdio>
 
 int main() {
+	eft();
 	return 0;
 }
