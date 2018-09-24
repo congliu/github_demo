@@ -2,6 +2,7 @@
 #include <iostream>
 #include <haha>
 
+
 void eft() {
-	
+
 }
