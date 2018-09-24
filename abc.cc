@@ -4,5 +4,6 @@
 
 int main() {
 	eft();
+	efg();
 	return 0;
 }
