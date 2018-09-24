@@ -6,3 +6,7 @@
 void eft() {
 
 }
+
+void efg() {
+	
+}
